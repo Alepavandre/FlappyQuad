@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 631cc91975f7f8144b603816be0df3d5, type: 3}
+  m_Name: StatsData
+  m_EditorClassIdentifier: 
+  border: 3.94
+  quadMinDistance: 1
+  quadMaxDistance: 3
+  quadMinSpeed: 0.5
+  quadMaxSpeed: 1.5
+  quadLivingTime: 4
+  bonusSpeed: 2
